@@ -41,7 +41,7 @@ class Version1Tests extends munit.FunSuite {
         Command: F
         --
         Rover: 0 2 N
-   */
+     */
   }
 
   test("move forward command, opposite orientation") {
